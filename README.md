@@ -15,3 +15,6 @@
 
 ![Bemeritus's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkrjnv&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkrjnv&layout=compact&theme=radical)
+
+![Bemeritus's GitHub stats](https://github-readme-stats.vercel.app/api?username=drdilyor&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drdilyor&layout=compact&theme=radical)
